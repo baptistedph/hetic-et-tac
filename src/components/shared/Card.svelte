@@ -31,6 +31,7 @@
   @media (min-width: $screen-md) {
     div {
       min-width: 300px;
+      padding: 30px;
     }
   }
 </style>

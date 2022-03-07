@@ -65,7 +65,7 @@
       h1 {
         font-size: $md;
         text-transform: uppercase;
-        font-weight: normal;
+        font-weight: 500;
         color: $white-70;
         line-height: 1.2em;
       }

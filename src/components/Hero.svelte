@@ -35,7 +35,7 @@
   <Wrapper>
     <div class="hero-content">
       <Title>Hetic & Tac</Title>
-      <Text marginTop={desktop ? 0 : 12}
+      <Text marginTop="12"
         >Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam,
         purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor</Text
       >
